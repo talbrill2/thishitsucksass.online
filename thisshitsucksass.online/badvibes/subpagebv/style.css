@@ -1,0 +1,54 @@
+body{
+		background-color: lightcyan;
+		}
+
+		img{
+			position: absolute;
+		}
+
+		.h1{
+			text-align: center;
+			margin-left: auto;
+			margin-right: auto;
+			width: 60%;
+		}
+
+
+		.p1{
+			text-align: center;
+			margin-left: auto;
+			margin-right: auto;
+			width: 50%;
+			border: 2px solid black;
+			padding: 50 px;
+
+		}
+
+		.container {
+			font-family: arial;
+			position: absolute;
+			bottom: 30%;
+			right: 20%;
+
+			}
+
+		.text {
+			background-color: black;
+			color: whitesmoke;
+
+			padding: 10 px;
+			width: 40%;
+			border: 2px solid black
+
+			}
+
+  .dragme{
+			position:relative;
+			width: 270px;
+			height: 203px;
+			cursor: move;
+		}
+	#draggable {
+			background-color: #ccc;
+			border: 1px solid #000;
+		}

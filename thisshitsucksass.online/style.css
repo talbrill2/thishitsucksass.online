@@ -1,0 +1,30 @@
+body{
+	background-color: grey ;
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+}
+
+.badvibes {
+
+	position: absolute;
+	left: 12.5%;
+	width: 30%;
+
+	border: 2px solid black
+
+
+
+}
+
+.endtimes{
+	position: absolute;
+	right: 12.5%;
+	width: 30%;
+
+	border: 2px solid black
+}
+
+
